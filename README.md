@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Tahir Mahmood</h1>
-<h3 align="center">I'm a Student, Programmer, Chief Developer at DDT!!</h3>
+<h3 align="center"> Student, Programmer, Co-Founder of <a href="https://digitaldtech.com">DigitalD.Tech</a>!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahirmahm123&label=Profile%20views&color=0e75b6&style=flat" alt="tahirmahm123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://my-profile-stats-eight.vercel.app/?username=tahirmahm123" alt="tahirmahm123" /></a> </p>
 
 ## Goals for 2021
-- GoLang
+- ASP.NET
 - PostgreSQL
 - Angular JS
-- Web Development in GoLang
 
 ## Languages and Tools:
 ### Languages
