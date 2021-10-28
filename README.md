@@ -54,9 +54,13 @@
 - Anaconda
 - Microsoft Word / Excel / PowerPoint / Access / Visio
 
-###Others
+### Others
 - OpenConnect
 - OpenVPN
+- IKev2
+- L2TP
+- PPTP
+- v2Ray
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirmahm123&show_icons=true&locale=en&layout=compact" alt="tahirmahm123" /></p>
