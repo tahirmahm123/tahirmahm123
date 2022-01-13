@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/?username=tahirmahm123" alt="tahirmahm123" /> </p>
 
-## Goals for 2021
+## Goals for 2022
 - ASP.NET
 - PostgreSQL
 - Angular JS
