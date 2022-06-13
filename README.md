@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Tahir Mahmood</h1>
-<h3 align="center"> Student, Programmer, Co-Founder of <a href="https://digitaldtech.com">DigitalD.Tech</a>!!</h3>
+<h3 align="center"> Student, Developer, Co-Founder of <a href="https://digitaldtech.com">DigitalD.Tech</a>!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tahirmahm123&label=Profile%20views&color=0e75b6&style=flat" alt="tahirmahm123" /> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/?username=tahirmahm123" alt="tahirmahm123" /> </p>
 
 ## Goals for 2022
-- ASP.NET
+- DevOps
 - PostgreSQL
-- Angular JS
 
 ## Languages and Tools:
 ### Languages
@@ -25,6 +23,8 @@
 - SQL
 - C#
 - VB Scripting
+- Golang
+- Qt 
 
 ### Web
 - Bootstrap
@@ -42,7 +42,6 @@
 ### Other Tools / Technologies 
 - Git
 - Asana
-- Adobe Photoshop
 - Ubuntu
 - Kubuntu
 - cPanel
@@ -50,8 +49,6 @@
 - Docker
 - Composer
 - YAML
-- Jupter Notebook
-- Anaconda
 - Microsoft Word / Excel / PowerPoint / Access / Visio
 
 ### Others
@@ -61,9 +58,10 @@
 - L2TP
 - PPTP
 - v2Ray
+- Wireguard
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirmahm123&show_icons=true&locale=en&layout=compact" alt="tahirmahm123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirmahm123&show_icons=true&locale=en&layout=compact" alt="tahirmahm123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahirmahm123&count_private=true&show_icons=true&locale=en" alt="tahirmahm123" /></p>
 
