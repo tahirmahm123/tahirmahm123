@@ -10,7 +10,6 @@
 
 ## Languages and Tools:
 ### Languages
-- Java
 - Laravel
 - PHP
 - JavaScript
@@ -21,10 +20,11 @@
 - React
 - Bash Scripting
 - SQL
-- C#
-- VB Scripting
 - Golang
 - Qt 
+- Swift
+- Objective-C
+- iOS
 
 ### Web
 - Bootstrap
